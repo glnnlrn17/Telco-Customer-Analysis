@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project analyzes customer churn in the telecommunications industry using SQL and Power BI. It focuses on understanding customer behavior, identifying patterns associated with customer cancellations, and exploring factors that may influence customer retention.
+This project analyzes customer churn in the telecommunications industry using SQL. It focuses on understanding customer behavior, identifying patterns associated with customer cancellations, and exploring factors that may influence customer retention.
 
 The dataset contains customer demographics, subscribed services, account information, billing details, and churn status. By examining these attributes, the project aims to identify customer groups with higher churn rates and determine which factors may be associated with customers leaving the company.
 
