@@ -1,12 +1,17 @@
 # Telco-Customer-Analysis
 
 **Project Overview**
+
 This project analyzes customer churn in the telecommunications industry using SQL and Power BI. It focuses on understanding customer behavior, identifying patterns associated with customer cancellations, and exploring factors that may influence customer retention.
+
 The dataset contains customer demographics, subscribed services, account information, billing details, and churn status. By examining these attributes, the project aims to identify customer groups with higher churn rates and determine which factors may be associated with customers leaving the company.
+
 The goal is to turn customer data into useful business insights that can support customer retention strategies and better decision-making.
 
 **Project Objectives**
+
 This project aims to:
+
 - Examine the overall customer churn rate.
 - Identify customer characteristics associated with higher churn.
 - Analyze churn across different contract types and payment methods.
@@ -17,13 +22,18 @@ This project aims to:
 - Develop data-driven recommendations for improving customer retention.
 
 **Business Context**
+
 Predicting customer behavior is important for businesses that want to retain their existing customers.
+
 Customer churn can affect recurring revenue, customer relationships, and long-term business performance. Understanding why customers leave can help a company identify potential retention issues and develop more focused customer retention programs.
 This project follows the context provided by IBM Sample Data Sets:
+
 Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
 
 **Key Business Questions**
+
 The analysis will aim to answer the following questions:
+
 - What percentage of customers have left the company?
 - Which contract type has the highest churn rate?
 - Are customers with shorter tenure more likely to leave?
@@ -35,7 +45,9 @@ The analysis will aim to answer the following questions:
 - What customer groups should the company prioritize for retention programs?
 
 **Data Source and Acknowledgment**
+
 Dataset: Telco Customer Churn
+
 Source: IBM Sample Data Sets
 
 The dataset is used for educational and portfolio purposes to demonstrate SQL analysis, data cleaning, customer segmentation, and business intelligence reporting.
