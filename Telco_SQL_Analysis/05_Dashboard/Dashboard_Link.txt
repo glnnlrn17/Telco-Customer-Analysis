@@ -1,0 +1,4 @@
+Looker Studio dashboard link: NOT PUBLISHED.
+The dashboard in this folder is an Excel workbook (Telco_Churn_Excel_Dashboard.xlsx),
+which is the stand-in agreed for this project. If a Looker Studio version is built later,
+paste its share link here.
