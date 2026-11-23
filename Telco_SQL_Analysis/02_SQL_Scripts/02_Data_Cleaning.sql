@@ -1,9 +1,4 @@
--- 02 Data cleaning: builds customers_clean from telco_raw.
--- Decisions (see Cleaning_Log.xlsx):
---   * TotalCharges converted to a number. The 11 blank values belong to tenure-0 customers, set to 0 and flagged.
---   * SeniorCitizen 0/1 turned into No/Yes for readable charts.
---   * customerID kept as the key. No personal names exist in this dataset.
---   * Derived: churn_flag (1/0), tenure_band, has_internet, service_count, charge_band.
+-- 02 Data cleaning
 
 DROP TABLE IF EXISTS customers_clean;
 
